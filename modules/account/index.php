@@ -4,3 +4,4 @@
 	Password<br><input type="password" name="password"><br>
 	<input type="submit" value="Log In">
 </form>
+</html>
